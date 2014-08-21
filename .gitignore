@@ -1,17 +1,7 @@
-# Standard
-desktop.ini
-*~
-*.sw?
-.DS_Store
-target
-
-
-# IDEA
-*.iml
-*.ipr
-*.iws
-.idea
-
-# Python
-*.pyc
-*.pyo
+node_modules
+dist
+test/temp
+.sass-cache
+app/bower_components
+.tmp
+test/bower_components/
